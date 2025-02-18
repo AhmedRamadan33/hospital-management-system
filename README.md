@@ -1,9 +1,7 @@
 ## Hospital Management System
-<hr/>
 The Hospital Management System (HMS) is a software program designed to help hospitals manage their activities and events efficiently. It is built specifically using the PHP Laravel framework, providing a robust and scalable solution for hospital administration.
 
 ## Features
-<hr/>
 
 Administrator Dashboard: Full control over all operations, including management of doctors, patients, departments, bills, and services.
 
